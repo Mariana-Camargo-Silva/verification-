@@ -1,0 +1,28 @@
+@charset "utf-8";
+
+body{
+ background-image: url(https://cliapsicologia.com.br/wp-content/uploads/2016/03/remedio-imagem-lustrativa-de-remedios.jpg);
+}
+ p{
+    font-size: larger;
+    color: aliceblue;
+    text-shadow: black 4px 5px 4px;
+    font-style: italic;
+ }
+
+ h1{
+    color: aliceblue;
+    text-shadow: black 4px 5px 4px;
+    font-style: italic;
+ }
+
+div{
+    text-align: center;
+    font-size: 50px;
+}
+
+footer{
+    text-align: center;
+    color: black;
+    font-style: oblique;
+}
